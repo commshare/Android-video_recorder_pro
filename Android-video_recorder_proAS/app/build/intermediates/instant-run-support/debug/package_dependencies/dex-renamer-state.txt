@@ -1,0 +1,13 @@
+#Sun Feb 18 22:04:06 CST 2018
+renamed.3=classes4.dex
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+renamed.0=classes.dex
+base.3=/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.1_534e7e720f5ac13c9c3af971ec8867dcfd37fd71
+base.2=/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b259d20838fab475e767efb4012c6c620905301
+base.1=/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_fad987395f03e30df54840a5b859a1eca14cb19b
+base.0=/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_e00a4651a7c072f0dd49765cbcb2ee53da1c3495
+file.3=/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.1_534e7e720f5ac13c9c3af971ec8867dcfd37fd71/classes.dex
+file.2=/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b259d20838fab475e767efb4012c6c620905301/classes.dex
+file.1=/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_fad987395f03e30df54840a5b859a1eca14cb19b/classes.dex
+file.0=/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_e00a4651a7c072f0dd49765cbcb2ee53da1c3495/classes.dex

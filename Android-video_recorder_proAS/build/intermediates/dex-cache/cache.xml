@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhangbin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.1/d8e711ae108185c59c17b36b3c3f11b20cf9b4d5/gson-2.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8e711ae108185c59c17b36b3c3f11b20cf9b4d5">
+        <dex dex="/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.1_534e7e720f5ac13c9c3af971ec8867dcfd37fd71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38d7a9e9bc6b9582e7bf41319114a9bde6c07e66">
+        <dex dex="/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2cc53176c086bbbd1a65436bdc0e1835f96f8be0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangbin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_e00a4651a7c072f0dd49765cbcb2ee53da1c3495/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangbin/.android/build-cache/0d3f051ea4e1049e51ba520be6e7fcdc6b72eea7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b259d20838fab475e767efb4012c6c620905301/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangbin/.android/build-cache/0d3f051ea4e1049e51ba520be6e7fcdc6b72eea7/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_fad987395f03e30df54840a5b859a1eca14cb19b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3044d67b3f6e6d4681ff02abc82ddd8e4c9570dd/classes.dex" />
+    </item>
+
+</items>

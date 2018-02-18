@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_pro/Android-video_recorder_proAS/app/build/intermediates/res/merged/debug/drawable/button_two_words.xml",
+        "source": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_pro/Android-video_recorder_proAS/app/src/main/res/drawable/button_two_words.xml"
+    },
+    {
+        "merged": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/res/merged/debug/drawable/costum_progress_bar.xml",
+        "source": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/src/main/res/drawable/costum_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/res/merged/debug/drawable/button_goback.xml",
+        "source": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/src/main/res/drawable/button_goback.xml"
+    },
+    {
+        "merged": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/res/merged/debug/drawable/button_two_words.xml",
+        "source": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/src/main/res/drawable/button_two_words.xml"
+    },
+    {
+        "merged": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/res/merged/debug/drawable/button_more.xml",
+        "source": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/src/main/res/drawable/button_more.xml"
+    },
+    {
+        "merged": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_pro/Android-video_recorder_proAS/app/build/intermediates/res/merged/debug/drawable/costum_progress_bar.xml",
+        "source": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_pro/Android-video_recorder_proAS/app/src/main/res/drawable/costum_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_pro/Android-video_recorder_proAS/app/build/intermediates/res/merged/debug/drawable/playback_player_button.xml",
+        "source": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_pro/Android-video_recorder_proAS/app/src/main/res/drawable/playback_player_button.xml"
+    },
+    {
+        "merged": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_pro/Android-video_recorder_proAS/app/build/intermediates/res/merged/debug/drawable/play_back_player_progress_style.xml",
+        "source": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_pro/Android-video_recorder_proAS/app/src/main/res/drawable/play_back_player_progress_style.xml"
+    },
+    {
+        "merged": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/res/merged/debug/drawable/playback_player_button.xml",
+        "source": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/src/main/res/drawable/playback_player_button.xml"
+    },
+    {
+        "merged": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_pro/Android-video_recorder_proAS/app/build/intermediates/res/merged/debug/drawable/button_more.xml",
+        "source": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_pro/Android-video_recorder_proAS/app/src/main/res/drawable/button_more.xml"
+    },
+    {
+        "merged": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/res/merged/debug/drawable/play_back_player_progress_style.xml",
+        "source": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/src/main/res/drawable/play_back_player_progress_style.xml"
+    },
+    {
+        "merged": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_pro/Android-video_recorder_proAS/app/build/intermediates/res/merged/debug/drawable/button_goback.xml",
+        "source": "/Users/zhangbin/myProjects/testRecord/Android-video_recorder_pro/Android-video_recorder_proAS/app/src/main/res/drawable/button_goback.xml"
+    }
+]
