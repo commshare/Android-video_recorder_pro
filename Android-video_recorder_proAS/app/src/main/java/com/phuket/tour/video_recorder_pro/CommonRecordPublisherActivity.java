@@ -828,7 +828,7 @@ public class CommonRecordPublisherActivity extends Activity implements OnClickLi
                 intent.setClass(CommonRecordPublisherActivity.this, SongSelectionActivity.class);
                 startActivityForResult(intent, SONG_SELECTION_REQUEST_CODE);
                 break;
-            case R.id.img_switch_camera:
+            case R.id.img_switch_camera: /*切换camera*/
                 previewScheduler.switchCameraFacing();
                 break;
             case R.id.btn_more:

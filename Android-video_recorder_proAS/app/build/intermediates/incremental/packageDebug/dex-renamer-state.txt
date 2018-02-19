@@ -1,7 +1,7 @@
-#Sun Feb 18 22:04:07 CST 2018
-base.0=/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2cc53176c086bbbd1a65436bdc0e1835f96f8be0
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3044d67b3f6e6d4681ff02abc82ddd8e4c9570dd/classes.dex
-base.1=/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3044d67b3f6e6d4681ff02abc82ddd8e4c9570dd
-file.0=/Users/zhangbin/myProjects/testRecord/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2cc53176c086bbbd1a65436bdc0e1835f96f8be0/classes.dex
+#Mon Feb 19 01:32:43 CST 2018
+base.0=/Users/zhangbin/myProjects/testRecord/Android-video_recorder_pro/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d79015de5f3efc6d2bd43cbfb5d8dd4533ec35df
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/zhangbin/myProjects/testRecord/Android-video_recorder_pro/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_885f71b575b85f6c84ec54394990eb6e01b0c02e/classes.dex
+base.1=/Users/zhangbin/myProjects/testRecord/Android-video_recorder_pro/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_885f71b575b85f6c84ec54394990eb6e01b0c02e
+file.0=/Users/zhangbin/myProjects/testRecord/Android-video_recorder_pro/Android-video_recorder_proAS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d79015de5f3efc6d2bd43cbfb5d8dd4533ec35df/classes.dex

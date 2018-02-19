@@ -74,7 +74,7 @@ public class ChangbaRecordingPreviewScheduler
     private boolean isFirst = true;
     private boolean isSurfaceExsist = false;
     private boolean isStopped = false;
-    private int defaultCameraFacingId = CameraInfo.CAMERA_FACING_FRONT;
+    private int defaultCameraFacingId = /*CameraInfo.CAMERA_FACING_FRONT*/CameraInfo.CAMERA_FACING_BACK;  /*默认后置*/
 
     @Override
     public void createSurface(Surface surface, int width, int height) {

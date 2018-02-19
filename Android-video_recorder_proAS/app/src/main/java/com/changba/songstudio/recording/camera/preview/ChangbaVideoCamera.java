@@ -92,6 +92,7 @@ public class ChangbaVideoCamera {
 					}
 				}
 			});
+			//XLog.i(TAG,"startPreview");
 			mCamera.startPreview();
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -199,6 +200,7 @@ public class ChangbaVideoCamera {
 			}
 
 			try {
+				//XLog.i(TAG,"setParameters %s",parameters);
 				mCamera.setParameters(parameters);
 			} catch (Exception e) {
 				throw new CameraParamSettingException("视频参数设置错误");

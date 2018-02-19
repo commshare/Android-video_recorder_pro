@@ -7,11 +7,14 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-public class MainActivity extends Activity {
+/*import com.elvishew.xlog.LogLevel;
+import com.elvishew.xlog.XLog;*/
 
+public class MainActivity extends Activity {
 	static {
 		System.loadLibrary("songstudio");
 	}
+
 	private Button forward_video_recorder;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -25,5 +28,7 @@ public class MainActivity extends Activity {
 				startActivity(intent);
 			}
 		});
-	}
+        /*https://github.com/elvishew/XLog/blob/master/sample/src/main/java/com/elvishew/xlogsample/XLogSampleApplication.java*/
+        //XLog.init(LogLevel.ALL);
+    }
 }
