@@ -11,10 +11,8 @@ public class ProApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        Log.i("zhangbin","ProApplicaiton1");
         KLog.init(true);
-        KLog.i(" init applicaiton ok");
-        Log.d("zhangbin","ProApplicaiton2");
+        KLog.i("zhangbin"," init applicaiton ok");
 
     }
 }

@@ -1,0 +1,13 @@
+360奇酷手机显示Log
+2016年02月02日 16:56:34 标签：360 奇酷 log 4822
+1、在桌面点击拨号，在拨号盘输入“*20121220#”，进入工程模式;
+2、看到日志输出等级，点进去
+Log print enable 选 enable
+Java log level 选 LOGV
+C and C++ log level 选 LOGV
+Kernel log level 选 KERN_DEBUG
+3、完毕
+
+
+
+转自：http://www.cnblogs.com/jasonkent27/p/4871348.html 感谢！

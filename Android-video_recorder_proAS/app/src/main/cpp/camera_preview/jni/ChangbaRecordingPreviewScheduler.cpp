@@ -4,7 +4,7 @@
 
 static MVRecordingPreviewController *previewController = 0;
 static jobject g_obj = 0;
-
+/*改变filter会改变存储文件名么？*/
 JNIEXPORT void JNICALL Java_com_changba_songstudio_recording_camera_preview_ChangbaRecordingPreviewScheduler_switchPreviewFilter(
         JNIEnv *env, jobject obj, jint filterType, jobject assetManager, jstring filename) {
     if (NULL != previewController) {

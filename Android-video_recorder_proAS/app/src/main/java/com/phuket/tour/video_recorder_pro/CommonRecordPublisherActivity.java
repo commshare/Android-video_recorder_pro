@@ -45,6 +45,7 @@ import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
 import android.widget.TextView;
 import android.widget.Toast;
+import com.socks.library.KLog;
 
 public class CommonRecordPublisherActivity extends Activity implements OnClickListener {
     // private static final int ONE_MINUTE = 1 * 60 * 1000;
@@ -104,6 +105,8 @@ public class CommonRecordPublisherActivity extends Activity implements OnClickLi
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
+        KLog.i("zhangbin","CommonRecordPublisherActivity");
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.record_video_surfaceview_filter_activity);
         preProcess();

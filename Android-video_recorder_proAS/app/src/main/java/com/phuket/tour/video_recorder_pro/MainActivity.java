@@ -3,14 +3,12 @@ package com.phuket.tour.video_recorder_pro;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
-
 import com.socks.library.KLog;
 
-/*import com.elvishew.xlog.LogLevel;
-import com.elvishew.xlog.XLog;*/
 
 public class MainActivity extends Activity {
 	static {
@@ -20,7 +18,7 @@ public class MainActivity extends Activity {
 	private Button forward_video_recorder;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
-
+        KLog.i("zhangbin","main activity");
         super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		forward_video_recorder = (Button) findViewById(R.id.forward_video_recorder);

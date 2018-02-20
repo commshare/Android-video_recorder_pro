@@ -82,6 +82,7 @@ public class ChangbaRecordingPreviewScheduler
     }
 
     private void startPreview(Surface surface, int width, int height, final int cameraFacingId) {
+        KLog.i()
         if (isFirst) {
             prepareEGLContext(surface, width, height, cameraFacingId);
             isFirst = false;
