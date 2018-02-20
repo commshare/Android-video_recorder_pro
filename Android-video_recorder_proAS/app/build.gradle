@@ -17,8 +17,8 @@ android {
         https://developer.android.com/studio/build/experimental-plugin.html.
         */
         ndk {
-            moduleName "libsongstudio"
-            abiFilters "armeabi", "armeabi-v7a", "x86"
+            moduleName "libSONGStudio"
+            abiFilters "armeabi-v7a"
         }
     }
 
@@ -28,13 +28,26 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
 /*for ndk build http://blog.csdn.net/sweettool/article/details/71436575*/
-        sourceSets {
+       /* sourceSets {
             main {
                 jni.srcDirs = []
             }
         }
 
         buildTypes{
+        }*/
+    }
+/*https://developer.android.com/studio/projects/add-native-code.html#link-gradle
+*将 Gradle 关联到您的原生库
+* */
+/*    externalNativeBuild {
+        ndkBuild {
+            path 'src/main/jni/Android.mk'
+        }
+    }*/
+    externalNativeBuild {
+        ndkBuild {
+            path 'src/main/cpp/Android.mk'
         }
     }
 }
@@ -43,4 +56,5 @@ dependencies {
     compile 'com.android.support:support-v4:23.4.0'
     compile 'com.google.code.gson:gson:2.2.1'
    // compile 'com.elvishew:xlog:1.4.0'
+    compile 'com.github.zhaokaiqiang.klog:library:1.6.0'
 }
